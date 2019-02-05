@@ -1,0 +1,6 @@
+spring.jpa.hibernate.ddl-auto=create
+spring.jpa.generate-ddl=true
+
+spring.datasource.url=secret
+spring.datasource.username=secret
+spring.datasource.password=secret
